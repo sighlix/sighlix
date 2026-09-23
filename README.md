@@ -5,8 +5,9 @@ I genuinely have no idea where to really start from, so I'll be hopefully chippi
 
 🦘🔥
 
-## Quick Links
-[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Finished Projects
+"If I'm not getting paid for it, it's going to be vibe coded"
+[Payslip Extractor](https://github.com/sighlix/payslip-extractor#payslip-extractor) - 12:46 23/09/2026 (Private for personal use)
 
 ## The latest
 If I remember to update this area, this will be where I'll be putting my projects at, in the form of: Title, Desc, Date started - Date finished
@@ -46,6 +47,7 @@ We've collected the inverters alongside the batteries, and have taken apart the 
 Learning Pytorch to understand machine learning (ML) 
 **From - 15/01/2025 @12:51pm**
 
-## Contact deets
+## Contact details
 For business enquiries: kevin.vanbeek03@gmail.com
-WIP
+## Quick Links
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
